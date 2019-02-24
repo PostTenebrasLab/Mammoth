@@ -1,3 +1,5 @@
+![mammoth 4mm](img/mammoth-4mm.jpg)
+
 Product: Mammoth, November 2014
 
 Designer: Juan Esteban Paz
